@@ -1,0 +1,6 @@
+c:\users\ashwani1942\documents\visual studio 2015\Projects\OpenCover\OpenCover\bin\Debug\OpenCover.exe.config
+c:\users\ashwani1942\documents\visual studio 2015\Projects\OpenCover\OpenCover\bin\Debug\OpenCover.exe
+c:\users\ashwani1942\documents\visual studio 2015\Projects\OpenCover\OpenCover\bin\Debug\OpenCover.pdb
+c:\users\ashwani1942\documents\visual studio 2015\Projects\OpenCover\OpenCover\obj\Debug\OpenCover.csprojResolveAssemblyReference.cache
+c:\users\ashwani1942\documents\visual studio 2015\Projects\OpenCover\OpenCover\obj\Debug\OpenCover.exe
+c:\users\ashwani1942\documents\visual studio 2015\Projects\OpenCover\OpenCover\obj\Debug\OpenCover.pdb
