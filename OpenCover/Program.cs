@@ -16,6 +16,10 @@ namespace OpenCover
     {
         public int Sum(int a, int b)
         {
+            if(a==2)
+            {
+                return 6;
+            }
             return a + b;
         }
     }
